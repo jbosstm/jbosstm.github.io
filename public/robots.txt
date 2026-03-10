@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.narayana.io/sitemap.xml
+Sitemap: https://jbosstm.github.io/public/sitemap.xml
